@@ -15,7 +15,7 @@
     <h3>Steps to Install and Run</h3>
     <ol>
         <li><strong>Clone the repository</strong></li>
-        <pre><code>git clone https://github.com/your-username/snake-game.git</code></pre>
+        <pre><code>git clone [https://github.com/Leo-exe-24/The-Snake-Game.git]</code></pre>
         <li><strong>Extract the files</strong></li>
         <p>After cloning, extract the downloaded files.</p>
         <li><strong>Run the game</strong></li>
@@ -30,8 +30,10 @@
     
 <h2>Screenshots</h2>
     <p>Below are some screenshots from the game:</p>
-    <p><img src="screenshot1.png" alt="Screenshot 1" width="600"></p>
-    <p><img src="screenshot2.png" alt="Screenshot 2" width="600"></p>
+    ![SnakeGame1](https://github.com/user-attachments/assets/d4e3b898-0680-4ae2-9d12-2e012aab2c09)
+    ![SnakeGame2](https://github.com/user-attachments/assets/642e8ce4-6e79-4996-96ca-938b732c313a)
+    ![SnakeGame3](https://github.com/user-attachments/assets/b400223d-d274-40e9-ac1c-897907959ef9)
+
     
 <h2>License</h2>
     <p>This project is open-source and available under the MIT License.</p>
