@@ -30,9 +30,10 @@
     
 <h2>Screenshots</h2>
     <p>Below are some screenshots from the game:</p>
-    ![SnakeGame1](https://github.com/user-attachments/assets/d4e3b898-0680-4ae2-9d12-2e012aab2c09)
-    ![SnakeGame2](https://github.com/user-attachments/assets/642e8ce4-6e79-4996-96ca-938b732c313a)
-    ![SnakeGame3](https://github.com/user-attachments/assets/b400223d-d274-40e9-ac1c-897907959ef9)
+    
+![SnakeGame1](https://github.com/user-attachments/assets/d4e3b898-0680-4ae2-9d12-2e012aab2c09)
+![SnakeGame2](https://github.com/user-attachments/assets/642e8ce4-6e79-4996-96ca-938b732c313a)
+![SnakeGame3](https://github.com/user-attachments/assets/b400223d-d274-40e9-ac1c-897907959ef9)
 
     
 <h2>License</h2>
